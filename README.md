@@ -24,7 +24,7 @@ The goal was to create a responsive testimonials grid with a clean design, built
 
 ## Live Demo
 
-- **Live Site:** [Netlify Site](#)
+- **Live Site:** [Netlify Site](https://testimonialgird506.netlify.app/)
 - **Frontend Mentor Solution Page:** [click here](#)
 
 ## What I Learned
